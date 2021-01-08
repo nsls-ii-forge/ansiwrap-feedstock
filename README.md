@@ -5,9 +5,11 @@ Home: https://github.com/jonathaneunice/ansiwrap
 
 Package license: Apache 2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/ansiwrap-feedstock/blob/master/LICENSE.txt)
 
 Summary: textwrap, but savvy to ANSI colors and styles
+
+Development: https://github.com/jonathaneunice/ansiwrap
 
 ansiwrap wraps text, like the standard textwrap module. But it also correctly wraps text that contains ANSI control sequences that colorize or style text.
 
